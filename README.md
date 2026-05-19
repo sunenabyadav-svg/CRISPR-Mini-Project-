@@ -1,9 +1,7 @@
 # CRISPR-Case9 knockout gene for tnf gene in human genome 
  To study TNF-knockout cell lines using gene editing tool CRISPR to understand exactly what roles TNF plays in body .
-
 The workflow integrates public biological databases (**NCBI**) with premier web-based gRNA design platforms (**CHOPCHOP**, **CRISPOR**) and structural plasmid visualization software (**SnapGene**)[cite: 1] .
 
----
 
 ## 🛠️ Workflow Pipeline Step-by-Step
 
@@ -22,4 +20,18 @@ The workflow integrates public biological databases (**NCBI**) with premier web-
 * Evaluate the **MIT Off-Target Score** and **CFD Score** (higher is better, aiming for >80)[cite: 1].
 * Select the single gRNA that maximizes on-target cutting efficiency while exhibiting zero predicted 0-mismatch or 1-mismatch off-target sites in the human exome[cite: 1].
 
-* 
+# 📊 Comparative Analysis of Candidate gRNAs
+
+Case protein	Target sequence	Genomic location	Strand	GC content (%)	Self-complementarity	MM0	MM1	MM2	MM3	Efficiency
+Case9	TGGGGAACTCTTCCCTCTGGGGG	seq:348	-	60	1	0	0	0	19	54.44
+Case9	AGAAGATGATCTGACTGCCTGGG	seq:398	-	45	0	0	0	1	32	55.72
+Case12a	TTTGCTACAACATGGGCTACAGGC	seq:438	-	55	0	0	0	0	3	54
+<img width="1179" height="85" alt="image" src="https://github.com/user-attachments/assets/b949c3d0-f52e-4fc2-a9b9-41a2e87ed41a" />
+
+
+
+
+
+
+
+

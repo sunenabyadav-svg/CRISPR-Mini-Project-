@@ -21,7 +21,7 @@ The workflow integrates public biological databases (**NCBI**) with premier web-
 * Select the single gRNA that maximizes on-target cutting efficiency while exhibiting zero predicted 0-mismatch or 1-mismatch off-target sites in the human exome[cite: 1].
 
 # 📊 Comparative Analysis of Candidate gRNAs
-Case protein	Target sequence	         Genomic location	Strand	GC content (%)	Self-complementarity	MM0 |	MM1 |	MM2 |	MM3  |	Efficiency
+
 Case9	        TGGGGAACTCTTCCCTCTGGGGG	seq:348          	-	      60                	1               	0 | 0	 | 0  |	19	 | 54.44
 Case9        	AGAAGATGATCTGACTGCCTGGG	seq:398          	-       	45               	0               	0 | 	0 |1	 | 32	 | 55.72
 Case12a      	TTTGCTACAACATGGGCTACAGGC	seq:438         	-	       55               	0               	0 |	0 |	0	| 3   |	54

@@ -22,9 +22,7 @@ The workflow integrates public biological databases (**NCBI**) with premier web-
 
 # 📊 Comparative Analysis of Candidate gRNAs
 
-Case9	        TGGGGAACTCTTCCCTCTGGGGG	seq:348          	-	      60                	1               	0 | 0	 | 0  |	19	 | 54.44
-Case9        	AGAAGATGATCTGACTGCCTGGG	seq:398          	-       	45               	0               	0 | 	0 |1	 | 32	 | 55.72
-Case12a      	TTTGCTACAACATGGGCTACAGGC	seq:438         	-	       55               	0               	0 |	0 |	0	| 3   |	54
+
 <img width="1359" height="105" alt="image" src="https://github.com/user-attachments/assets/42c912ac-24a2-4b23-b264-c53f62eedc5a" />
 
 

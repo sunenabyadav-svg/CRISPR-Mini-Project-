@@ -25,6 +25,10 @@ The workflow integrates public biological databases (**NCBI**) with premier web-
 
 <img width="1359" height="105" alt="image" src="https://github.com/user-attachments/assets/42c912ac-24a2-4b23-b264-c53f62eedc5a" />
 
+## 🖼️ Visualizations & Figures
+Here are the simulated layout map and targeting locations generated during this pipeline:
+
+
 
 
 

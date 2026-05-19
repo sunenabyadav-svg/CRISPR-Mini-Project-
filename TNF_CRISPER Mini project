@@ -1,0 +1,13 @@
+── scripts/
+│   ├── 01_fetch_ncbi_sequence.py
+│   └── 02_filter_grnas.py
+├── figures/
+│   ├── snapgene_vector_map.png
+│   └── chopchop_efficiency_plot.png
+├── tables/
+│   ├── candidate_gRNAs_metrics.csv
+│   └── crispor_off_target_results.tsv
+├── reports/
+│   └── CRISPR_HBB_Project_Report.pdf
+├── README.md
+└── sessioninfo.txt

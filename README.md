@@ -32,6 +32,10 @@ https://github.com/sunenabyadav-svg/CRISPR-Mini-Project-/blob/751be671d8c081c736
 
 https://github.com/sunenabyadav-svg/CRISPR-Mini-Project-/blob/4f025cd8ab4eb59187cf62d5995744347ac604ed/CHOPCHOP.png
 
+https://github.com/sunenabyadav-svg/CRISPR-Mini-Project-/blob/1cdbc89d5c71d588472688e838dce630e03dc82b/snapgene.png
+
+## 🏁 Conclusion & Selection
+Based on the quantitative metrics derived from the multi-tool pipeline, **TNF-gRNA-01** is selected as the optimal candidate[cite: 1]. It possesses an ideal 55% GC content ensuring stable hybridization dynamics, a high efficiency score profile, and an excellent off-target safety profile across the hg38 human genome[cite: 1]. This blueprint is ready for wet-lab oligo ordering and subsequent plasmid transfection validation experiments[cite: 1]
 
 
 

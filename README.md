@@ -30,6 +30,8 @@ Here are the simulated layout map and targeting locations generated during this 
 
 https://github.com/sunenabyadav-svg/CRISPR-Mini-Project-/blob/751be671d8c081c736c8e77780e7ef8dd18ed3fe/NCBI.png
 
+https://github.com/sunenabyadav-svg/CRISPR-Mini-Project-/blob/4f025cd8ab4eb59187cf62d5995744347ac604ed/CHOPCHOP.png
+
 
 
 

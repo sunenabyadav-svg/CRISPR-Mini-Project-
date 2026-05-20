@@ -28,6 +28,8 @@ The workflow integrates public biological databases (**NCBI**) with premier web-
 ## 🖼️ Visualizations & Figures
 Here are the simulated layout map and targeting locations generated during this pipeline:
 
+https://github.com/sunenabyadav-svg/CRISPR-Mini-Project-/blob/751be671d8c081c736c8e77780e7ef8dd18ed3fe/NCBI.png
+
 
 
 
